@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+config/keys.php
+.env
+*.log
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

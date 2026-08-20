@@ -1,0 +1,561 @@
+[
+    {
+        "comment": "Vous aussi vous y pensiez souvent à cette crème de marrons ?",
+        "positivity": 0.2,
+        "neutrality": 0.6,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "",
+        "malus": ""
+    },
+    {
+        "comment": "Merci les frères pour l’aventure",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Merci pour l'aventure",
+        "malus": ""
+    },
+    {
+        "comment": "Le fait que cette vidéo soit sortie un dimanche à 10h00 est une superbe référence nostalgique. J’aime beaucoup ces petits détails.",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Référence nostalgique appréciée",
+        "malus": ""
+    },
+    {
+        "comment": "Présenter la météo devant la France entière - Bigflo : ok. Faire un spectacle de marionnettes - Bigflo : je suis terrifié",
+        "positivity": 0.4,
+        "neutrality": 0.4,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "",
+        "malus": "Bigflo terrifié"
+    },
+    {
+        "comment": "Merci à nos étudiants pour ce travail incroyable ! On est très fiers d’eux :) Merci d’avoir montré leur réalisation, ils le méritent !",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Travail incroyable des étudiants",
+        "malus": ""
+    },
+    {
+        "comment": "« Vilebrequin c’est lequel des deux? » Oli ce génie",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Oli est un génie",
+        "malus": ""
+    },
+    {
+        "comment": "S’il vous plaît, continuez les Méli Mélo, jusqu’au 10, 20, 30... vous ne vous rendez pas compte du shot de bonheur que procure ce concept. J’en veux plus je ne serais jamais rassasié.",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Concept Méli Mélo apprécié",
+        "malus": ""
+    },
+    {
+        "comment": "C’est exactement ce qu’il manquait à la nouvelle D.A… On en demande pas tout le temps mais de temps en temps, frenchement ça fait du bien de retrouver l’essence même de cette chaîne.. Merci sincèrement pour cette énorme qualité de divertissement !",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Qualité de divertissement appréciée",
+        "malus": ""
+    },
+    {
+        "comment": "Je suis le réalisateur de Planète Rap depuis 5 ans maintenant et jamais je n’avais filmé une telle prestation... Même le freestyle 10 minutes d’Oli n’arrive pas à la cheville d’Hélène. Bravo.",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Prestation appréciée",
+        "malus": ""
+    },
+    {
+        "comment": "Je suis l’un des producers du jeu vidéo Méli-mélo !! Un immense merci à Carlito pour ta confiance et la liberté créative que tu nous as accordées~ grâce à ça, on a pu vous concocter un jeu fait avec le cœur, pour le cœur. Voir vos réactions face à ce travail colossal, c’est un shoot d’émotion pur. j’en ai eu les larmes aux yeux~ Franchement, vous nous avez régalés avec cet épisode… juste MERCI. Restez comme vous êtes, kiffez bien, et surtout : amusez-vous. La bise",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Jeu vidéo Méli-mélo apprécié",
+        "malus": ""
+    },
+    {
+        "comment": "La mère de McFly à Planète Rap est l'une des choses les plus drôles que j'ai vu de ma vie",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est drôle",
+        "malus": ""
+    },
+    {
+        "comment": "Sortir la vidéo de Meli Melo 4 un dimanche à 10h00, c'est la nostalgie qui revient",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo évoque des souvenirs",
+        "malus": ""
+    },
+    {
+        "comment": "Le reveal est légendaire",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le reveal est impressionnant",
+        "malus": ""
+    },
+    {
+        "comment": "J'aurais aimé que la vidéo dure 3h45",
+        "positivity": 0.7,
+        "neutrality": 0.3,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est trop courte",
+        "malus": ""
+    },
+    {
+        "comment": "Carlito à absolument tous les jeux : \"C'est peut-être le meilleur jeu de tout Meli-melo\"",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le jeu est excellent",
+        "malus": ""
+    },
+    {
+        "comment": "Quelle dinguerie. Vous êtes vraiment à part sur cette plateforme, souvent imités jamais égalés, vous avez vraiment un truc particulier. Je vous rejoins pas sur tout mais c'est toujours cool de vous suivre et vos vidéos m'ont fait du bien dans beaucoup de moments de bad, et quand ces moments refont surface, je me mets une ancienne ou une récente et ça m'allège ce poids sur l'instant. Donc rien que pour ça : Bravo et merci à vous.",
+        "positivity": 0.95,
+        "neutrality": 0.05,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Les vidéos sont divertissantes et apportent du bien-être",
+        "malus": ""
+    },
+    {
+        "comment": "J'aimerais que ce concept ne prenne jamais fin. Tellement d'humour, de détails, d'amour entre vous. On ressent la bienveillance entre vous et votre quatuor est un véritable plaisir à voir. Peu importe la journée que l'on a passée, on se régale toujours autant devant les vidéos Meli Mélo. Merci pour tout, vous êtes géniaux.",
+        "positivity": 0.99,
+        "neutrality": 0.01,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le concept est excellent et les vidéos sont toujours amusantes",
+        "malus": ""
+    },
+    {
+        "comment": "INCROYABLE... Force à la prod (vrmt les vidéos Méli-Mélo ça doit être leur phobie), le montage incroyable les idées folles la réalisation est COMPLÈTEMENT DINGUE, pas le temps de souffler tellement vous nous régalez, il n'y avait pas de meilleure moyen de finir cette saison: tlmt d'amour et de rigolade dans cette vidéo.. vrmt fier du YouTube français",
+        "positivity": 0.99,
+        "neutrality": 0.01,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est incroyable et le montage est excellent",
+        "malus": ""
+    },
+    {
+        "comment": "Il est 00h28, je regarde cette vidéo comme s'il n'y avait pas de lendemain, que je ne devais pas emmener mes enfants, à 8h00 tapante, au Kids club du camping pas ouf où je passe mes vacances après une année vraiment pas ouf non plus. Vous êtes une sacrée récompense les gars et je vous remercie franchement pour cette parenthèse hilarante dans une vie sacrement banale. Vous êtes les quatre personnes les plus hilarantes après mes deux enfants un peu spéciaux. MERCI INFINIMENT (la vie est plus douce avec vous).",
+        "positivity": 0.99,
+        "neutrality": 0.01,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Les vidéos sont une récompense et apportent de l'hilarité dans la vie",
+        "malus": ""
+    },
+    {
+        "comment": "Exceptionnel. Magistral. Légendaire. L'une des meilleures vidéos de YouTube, si ce n'est LA meilleure. Vous me touchez tellement tous, votre connexion et votre humanité à tous m'émeut et je voulais vous remercier pour ce que vous nous permettez d'apercevoir. Quel kiff bon sang, c'est pour ça que je regarde des vidéos depuis plus de 10 ans",
+        "positivity": 0.99,
+        "neutrality": 0.01,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est exceptionnelle et la connexion entre les membres est touchante",
+        "malus": ""
+    },
+    {
+        "comment": "J'ai du mal à atterrir après avoir vu un mélange. C'est toujours aussi fou, on voyage dans vos émotions et c'est beau ! Absolument indescriptible comme type de vidéo pour quelqu'un qui ne connaît pas, ça m'est déjà arrivé quelque fois de vouloir expliquer le concept à des gens mais vraiment c'est tellement fou qu'il n'y a pas de bonne description et c'est tout ce qui fait le charme de ce moment passer à vous voir. Merci, merci de montrer encore et toujours à quel point l'amitié est simple, profonde et belle.",
+        "positivity": 0.95,
+        "neutrality": 0.03,
+        "negativity": 0.01,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est émouvante et montre l'amitié sous un jour positif.",
+        "malus": ""
+    },
+    {
+        "comment": "Je suis un viewer de l'ombre qui ne poste quasiment jamais de commentaires, mais je tenais à vous remercier du fond du cœur pour ces deux heures de larmes de joie, de bonheur et de rire, venant remplacer celles de tristesse et de dépression, et que je n'avais plus eu l'occasion de ressentir depuis longtemps. Merci, merci d'avoir contagieusement partagé une tranche de votre bonheur.",
+        "positivity": 0.98,
+        "neutrality": 0.01,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo a apporté du bonheur et a remplacé les sentiments négatifs.",
+        "malus": ""
+    },
+    {
+        "comment": "L'hommage à David est trop bien, le concept de rendre hommage à une personnalité de son vivant et devant elle est tellement mieux. Super vidéo comme d'habitude.",
+        "positivity": 0.9,
+        "neutrality": 0.05,
+        "negativity": 0.05,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "L'hommage à David est un concept intéressant et bien exécuté.",
+        "malus": ""
+    },
+    {
+        "comment": "Le fait que Flo soit bel et bien passé par un artiste pour les cartes Pokémon custom, et pas une IA, bravo !",
+        "positivity": 0.85,
+        "neutrality": 0.1,
+        "negativity": 0.05,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le travail de l'artiste pour les cartes Pokémon custom est apprécié.",
+        "malus": ""
+    },
+    {
+        "comment": "Le fait que Batman soit doublé par la voix française d'Henri Cavill dans les films DCEU me dit que ça va être grand.",
+        "positivity": 0.6,
+        "neutrality": 0.2,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "",
+        "malus": "Le commentaire semble être hors sujet et ne concerne pas la vidéo."
+    },
+    {
+        "comment": "Justice pour Flo qui n'a pas eu son happening, j'aurais aimé qu'il ait vraiment un display, mais tout était génial, touchant et bien pensé, bravo.",
+        "positivity": 0.8,
+        "neutrality": 0.1,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est géniale et touchante, mais il y a une petite déception pour Flo.",
+        "malus": "Flo n'a pas eu son happening, ce qui est une petite déception."
+    },
+    {
+        "comment": "C'est littéralement les 1h49 les plus agréables que j'ai regardés depuis longtemps. J'avais peur que ça soit trop long mais du coup je n'avais pas envie que ça s'arrête... Chapeau messieur, on appelle ça une MasterClass.",
+        "positivity": 0.95,
+        "neutrality": 0.03,
+        "negativity": 0.02,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est très agréable et bien faite, on ne voit pas le temps passer.",
+        "malus": ""
+    },
+    {
+        "comment": "Je suis vraiment heureux de vivre dans un monde où ce genre de contenu est accessible gratuitement. J'ai du mal à vous remercier parce que je sais pas ce que je viens de regarder. Une vidéo YouTube, un vlog entre pote, une émission télé, une comédie sur l'amitié ou un documentaire ? Je sais vraiment pas, mais ce que je sais, c'est que c'est unique et génial.",
+        "positivity": 0.92,
+        "neutrality": 0.05,
+        "negativity": 0.03,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est unique et géniale, et c'est gratuit.",
+        "malus": ""
+    },
+    {
+        "comment": "Cette vidéo est drôle, surprenante et touchante. Franchement je ne m'attendais pas à grand chose, juste des petits jeux dans un studio entre pote, et ça aurait été très bien, mais là wow je ne m'attendais pas à ça. Voir cette vidéo après avoir vu et revu les premiers mélis-mélos, je ne saurais pas comment décrire ce sentiment, mais c'est simplement un bonheur. Je ne pourrais pas être plus fier que de suivre des gars comme vous depuis mon adolescence, vous êtes sans exagération un pilier dans ma vie. Love, merci pour les émotions.",
+        "positivity": 0.98,
+        "neutrality": 0.01,
+        "negativity": 0.01,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est drôle, surprenante et touchante, et a apporté du bonheur.",
+        "malus": ""
+    },
+    {
+        "comment": "Mdrrrr jusqu'à la fin : un cri du cœur du Q !! J'en peux plus de vous. J'ai 43 ans… et devant vos vidéos j'en ai 15 !! Un régal !!! Merci pour ça… beaucoup de valeurs dans cette vidéo, de surprises, de jeu… et vous avez réussi à me faire sourire aux larmes !! Merci ! Quel superbe groupe d'amis… j'ai eu l'impression de partager ces moments avec vous. Trop fort !!! Bravo à tous et à toutes les équipes !!! Cette vidéo est épique !!!",
+        "positivity": 0.99,
+        "neutrality": 0.005,
+        "negativity": 0.005,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est épique et a apporté du bonheur et des émotions.",
+        "malus": ""
+    },
+    {
+        "comment": "Quand Mcfly a dit qu'on se réveillera pas avant le Méli Mélo 5, je pensais que l'année prochaine ou dans 2-3 ans, pour vraiment montrer que le temps est passé, l'intro du Méli Mélo 5 sera Mcfly, Carlito, Bigflo et Oli qui se réveilleront dans les mêmes lits avec les mêmes décorations sur les tables de nuit que Méli-Mélo 4.",
+        "positivity": 0.7,
+        "neutrality": 0.2,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire montre une grande attente et une excitation pour la prochaine vidéo de Méli Mélo.",
+        "malus": ""
+    },
+    {
+        "comment": "Sur le conseil de Rat de Star, j'ai cru voir Oli à Toulouse tout le week-end, j'ai dit 'on va le croiser' et au moment où il passe devant moi, j'ai pas bougé... Une copine m'a choper la main et nous sommes partis en courant le voir ! Donc merci Oli pour ta gentillesse ce jour-là.",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande admiration et gratitude envers Oli pour sa gentillesse.",
+        "malus": ""
+    },
+    {
+        "comment": "C'est la meilleure vidéo que j'ai vu. Une telle amitié comme la vôtre est tellement rare et unique... Rien que de la voir vivre en vidéos nous met une claque monumentale et nous emplit de joie. Quelle ode à l'amitié ! Merci beaucoup pour ce cadeau.",
+        "positivity": 0.95,
+        "neutrality": 0.05,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande admiration pour l'amitié entre les membres de Méli Mélo et trouve la vidéo très inspirante.",
+        "malus": ""
+    },
+    {
+        "comment": "À un moment, Bigflo affirme : 'En fait Méli Mélo, on dirait qu'on n'est pas dans une vraie réalité' et c'est exactement ça. C'est une fois encore plus qu'une simple vidéo, c'est un vrai pérille auquel on prend part à vos côtés. J'ai attendu ça avec beaucoup d'impatience et ne suis absolument pas déçu, le résultat est fou, unique, hilarant et touchant : à votre image. Merci les gars et la prod pour ce format à part, chaque minute est une pépite.",
+        "positivity": 0.92,
+        "neutrality": 0.08,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire trouve la vidéo très originale, hilarante et touchante, et apprécie le format unique de Méli Mélo.",
+        "malus": ""
+    },
+    {
+        "comment": "Elle a cru que YouTube c'était le nom du cameraman !",
+        "positivity": 0.6,
+        "neutrality": 0.3,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire trouve l'anecdote amusante.",
+        "malus": ""
+    },
+    {
+        "comment": "Entre la fin de Méli Melo 3, la vidéo réunion l'année dernière, la réunion de Blanche et Carlito dans la vidéo POV et le passage de Bigflo et Oli à la météo, j'ai jamais été aussi impatient de voir une vidéo YouTube. Merci les gars. UPDATE après visionnage : c'était exceptionnel, c'est la première vidéo de 2 heures que je ne vois pas passer tellement c'était dingue. Encore merci à vous pour ces 4 vidéos qui sont mes préférées du YouTube FR, vous êtes vraiment une source d'inspiration et de bien-être me concernant et juste pour ça, je vous remercie encore une fois.",
+        "positivity": 0.96,
+        "neutrality": 0.04,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande admiration pour les vidéos de Méli Mélo et trouve qu'elles sont une source d'inspiration et de bien-être.",
+        "malus": ""
+    },
+    {
+        "comment": "C'est extraordinaire du début jusqu'à la fin. Votre amitié est touchante... les cadeaux émouvants... Je vous adore tous les 4. Un bonheur.",
+        "positivity": 0.98,
+        "neutrality": 0.02,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande admiration pour l'amitié entre les membres de Méli Mélo et trouve la vidéo très émouvante.",
+        "malus": ""
+    },
+    {
+        "comment": "Je trouve ça tellement intelligent. Les vidéos casual en semaine, et les vidéos 'à l'ancienne' le dimanche à 10h. Franchement bravo les gars.",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire trouve la stratégie de publication de vidéos intelligente et apprécie le format 'à l'ancienne' du dimanche.",
+        "malus": ""
+    },
+    {
+        "comment": "Je ne sais pas si tu liras ça Carli : ce n'est pas un problème que tu aies peur de ne pas assez donner et qu'en off tu sois moins jovial plus distant et concentré. Tu fais très bien ce que tu proposes, tu prêtes le meilleur de toi même pour déposer des rires et des sourires sur le visage des gens.",
+        "positivity": 0.85,
+        "neutrality": 0.1,
+        "negativity": 0.05,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande admiration pour Carli et trouve qu'il fait très bien son travail.",
+        "malus": ""
+    },
+    {
+        "comment": "Je dois vous dire merci, merci d'être là parce qu'en ce moment c'est une période dure pour moi, j'ai perdu mon boulot et j'ai l'impression de retomber dans des endroits sombres dans lesquels je n'ai pas envie de retomber, votre présence, votre joie de vivre me donne la force de ne pas sombrer. Vous ne vous rendez sans doute pas compte à quel point cette vidéo va être la vidéo de l'année pour beaucoup d'entre nous.",
+        "positivity": 0.9,
+        "neutrality": 0.05,
+        "negativity": 0.05,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une grande gratitude envers les membres de Méli Mélo pour leur présence et leur joie de vivre, qui aide à surmonter des périodes difficiles.",
+        "malus": ""
+    },
+    {
+        "comment": "Cette vidéo est juste incroyable ! Vous avez vraiment mis la barre haute sur ce MéliMélo, c'est un condensé de 600 vidéos uniques en une seule ! Un grand bravo à vous 4 et à toute l'équipe derrière ! Ça va être difficile à égaler !",
+        "positivity": 0.95,
+        "neutrality": 0.05,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est considérée comme incroyable et exceptionnelle",
+        "malus": ""
+    },
+    {
+        "comment": "Une masterclass, la vidéo... je suis déjà nostalgique. Je veux oublier tous les MéliMélo pour pouvoir tous les revoir. Merci pour ce divertissement incroyable",
+        "positivity": 0.92,
+        "neutrality": 0.08,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est considérée comme une masterclass et un divertissement incroyable",
+        "malus": ""
+    },
+    {
+        "comment": "J'ai juré le mois de juillet, il a rendu mes mois de déprime, j'ai repris le foot, j'ai du trouver après être resté depuis avril au chômage, et maintenant il a la sainte vidéo Méli Mélo 4, ce mois de juillet c'est trop une dinguerie de mon côté. Merciii les gars, j'ai même pas encore regardé la vidéo que je sais déjà que ça va être un banger absolu",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La vidéo est considérée comme un banger absolu et a rendu le mois de juillet exceptionnel",
+        "malus": ""
+    }
+]

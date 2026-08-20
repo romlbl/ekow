@@ -1,0 +1,652 @@
+[
+    {
+        "comment": "Un homme de 60 ans reprend des études, c'est inspirant d'aller à la fac en philo sans pression pour apprendre",
+        "positivity": 0.8,
+        "neutrality": 0.1,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Inspirant",
+        "malus": ""
+    },
+    {
+        "comment": "La situation où les parents gagnent trop pour une bourse mais pas assez pour aider leur enfant est triste et réelle",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.5,
+            "reason": "Système d'aide insuffisant"
+        },
+        "bonus": "",
+        "malus": "Système d'aide insuffisant"
+    },
+    {
+        "comment": "Il est irréaliste de penser qu'on peut acquérir l'expérience d'un bac +8 en un mois",
+        "positivity": 0.1,
+        "neutrality": 0.2,
+        "negativity": 0.7,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.7,
+            "reason": "Attentes irréalistes"
+        },
+        "bonus": "",
+        "malus": "Attentes irréalistes"
+    },
+    {
+        "comment": "Une prof est adorable, bienveillante, drôle et chaleureuse",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Prof adorable",
+        "malus": ""
+    },
+    {
+        "comment": "Les étudiants actuels sont déconnectés de la réalité de la fac",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.5,
+            "reason": "Déconnexion de la réalité"
+        },
+        "bonus": "",
+        "malus": "Déconnexion de la réalité"
+    },
+    {
+        "comment": "La situation d'un étudiant vivant dans un logement petit et ayant des difficultés est touchante, mais il y a de la chance d'avoir une chambre",
+        "positivity": 0.6,
+        "neutrality": 0.2,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.2,
+            "reason": "Difficultés étudiantes"
+        },
+        "bonus": "Solidarité",
+        "malus": "Difficultés étudiantes"
+    },
+    {
+        "comment": "Les intentions sont bonnes mais les réalisations sont ratées, il faut ouvrir les yeux sur la réalité",
+        "positivity": 0.1,
+        "neutrality": 0.2,
+        "negativity": 0.7,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.7,
+            "reason": "Déconnexion de la réalité"
+        },
+        "bonus": "",
+        "malus": "Déconnexion de la réalité"
+    },
+    {
+        "comment": "Apprendre sur YouTube n'est pas équivalent à avoir une licence, il manque la quantité d'informations et l'apport d'un professeur",
+        "positivity": 0.3,
+        "neutrality": 0.4,
+        "negativity": 0.3,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.3,
+            "reason": "Limites de l'apprentissage en ligne"
+        },
+        "bonus": "Importance de l'enseignement traditionnel",
+        "malus": "Limites de l'apprentissage en ligne"
+    },
+    {
+        "comment": "La fac représentée dans la vidéo n'est pas réaliste, les étudiants font face à la précarité et doivent travailler pour survivre",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.5,
+            "reason": "Précarité étudiante"
+        },
+        "bonus": "Solidarité",
+        "malus": "Précarité étudiante"
+    },
+    {
+        "comment": "La vidéo ignore la souffrance étudiante, les difficultés de logement, les infrastructures délabrées et la pression de performer",
+        "positivity": 0.1,
+        "neutrality": 0.2,
+        "negativity": 0.7,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.7,
+            "reason": "Ignorance de la souffrance étudiante"
+        },
+        "bonus": "",
+        "malus": "Ignorance de la souffrance étudiante"
+    },
+    {
+        "comment": "Le contenu proposé est déconnecté de la réalité",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.5,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Contenu déconnecté de la réalité"
+        },
+        "bonus": "",
+        "malus": "Contenu déconnecté de la réalité"
+    },
+    {
+        "comment": "Carlito semble déconnecté de la réalité étudiante",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.5,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Déconnexion de la réalité étudiante"
+        },
+        "bonus": "",
+        "malus": "Déconnexion de la réalité étudiante"
+    },
+    {
+        "comment": "Les étudiants sont débordés mais trouvent du réconfort dans les frites du CROUS",
+        "positivity": 0.5,
+        "neutrality": 0.3,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Les frites du CROUS sont un réconfort",
+        "malus": ""
+    },
+    {
+        "comment": "Les étudiants sont déconnectés de leur réalité et subissent les difficultés de la fac",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.8,
+        "badbuzz": {
+            "score": 0.9,
+            "reason": "Déconnexion et difficultés étudiantes"
+        },
+        "bonus": "",
+        "malus": "Déconnexion et difficultés étudiantes"
+    },
+    {
+        "comment": "Le commentaire exprime un sentiment de déconnexion totale",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.5,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Déconnexion totale"
+        },
+        "bonus": "",
+        "malus": "Déconnexion totale"
+    },
+    {
+        "comment": "La fac est utile pour apprendre la méthodologie et les relations",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "La fac est utile pour la méthodologie et les relations",
+        "malus": ""
+    },
+    {
+        "comment": "Il est suggéré de faire une immersion plus profonde dans la vie étudiante",
+        "positivity": 0.5,
+        "neutrality": 0.3,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Immersion plus profonde dans la vie étudiante",
+        "malus": ""
+    },
+    {
+        "comment": "La vidéo donne une impression de mal-être et de désespoir",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.8,
+        "badbuzz": {
+            "score": 0.9,
+            "reason": "Impression de mal-être et de désespoir"
+        },
+        "bonus": "",
+        "malus": "Impression de mal-être et de désespoir"
+    },
+    {
+        "comment": "Les CM sont difficiles à suivre en raison du grand nombre d'étudiants",
+        "positivity": 0.2,
+        "neutrality": 0.5,
+        "negativity": 0.3,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "",
+        "malus": "Difficultés avec les CM"
+    },
+    {
+        "comment": "Carlito est déconnecté de la réalité étudiante et reste enfermé dans ses pièces",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.5,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Déconnexion de la réalité étudiante"
+        },
+        "bonus": "",
+        "malus": "Déconnexion de la réalité étudiante"
+    },
+    {
+        "comment": "J'ai fait 5 ans d'études à la fac. Rarement vu quelque chose d'aussi détaché et déconnecté. L'impression que le duo s'amuse à une sortie au zoo et tire des conclusions absurdes après avoir vu 15min de cours. Je trouve cela très déplacé.",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.8,
+        "badbuzz": {
+            "score": 0.9,
+            "reason": "Le commentaire exprime un fort sentiment de déception et de déconnexion"
+        },
+        "bonus": "",
+        "malus": "Le commentaire critique fortement la vidéo"
+    },
+    {
+        "comment": "Belle expérience en immersion. Plus de contenus comme celui-ci.",
+        "positivity": 1,
+        "neutrality": 0,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire apprécie la vidéo",
+        "malus": ""
+    },
+    {
+        "comment": "La chute cartoonesque de Carlito restera à jamais gravée dans ma mémoire - Merci pour ce fou rire éternel.",
+        "positivity": 1,
+        "neutrality": 0,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire apprécie l'humour de la vidéo",
+        "malus": ""
+    },
+    {
+        "comment": "Oui effectivement il faut être au courant de ce qui se passe en ce moment dans les facs vous dites c’est gratuit et oui c’est super mais les étudiants se battent pour que ça le reste",
+        "positivity": 0.5,
+        "neutrality": 0.3,
+        "negativity": 0.2,
+        "toxicity": 0.1,
+        "badbuzz": {
+            "score": 0.2,
+            "reason": "Le commentaire exprime une opinion mitigée"
+        },
+        "bonus": "Le commentaire apprécie certains aspects de la vidéo",
+        "malus": "Le commentaire critique certains aspects de la vidéo"
+    },
+    {
+        "comment": "Un des nombreux problèmes qui n'est pas montré dans la vidéo c'est qu'il est quasi impossible de manger au Crous à 12h30 ou les files dépassent souvent 40 min de file",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.6,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Le commentaire critique fortement la situation décrite"
+        },
+        "bonus": "",
+        "malus": "Le commentaire critique la situation décrite"
+    },
+    {
+        "comment": "En vrai j'étais grave enjouée au début de la vidéo, mais plus on avance, plus je suis mitigée. Vous êtes vraiment à côté de ce qui se passe réellement.",
+        "positivity": 0.3,
+        "neutrality": 0.4,
+        "negativity": 0.3,
+        "toxicity": 0.2,
+        "badbuzz": {
+            "score": 0.4,
+            "reason": "Le commentaire exprime une opinion mitigée"
+        },
+        "bonus": "Le commentaire apprécie certains aspects de la vidéo",
+        "malus": "Le commentaire critique certains aspects de la vidéo"
+    },
+    {
+        "comment": "Le mépris de classe à son paroxysme, ils sont déconnectés de la réalité d'une manière c'est aberrant...",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.9,
+        "badbuzz": {
+            "score": 0.95,
+            "reason": "Le commentaire exprime un fort sentiment de déception et de déconnexion"
+        },
+        "bonus": "",
+        "malus": "Le commentaire critique fortement la vidéo"
+    },
+    {
+        "comment": "En tant qu'étudiante en médecine, en regardant votre vidéo j'ai un peu senti de l'inconfort face à vos observations. 1 jour à l'université sans être rester + de 15mn devant un prof, sans rester à la BU + de 1h, ce n'est absolument pas représentatif du quotidien étudiant.",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0.4,
+        "badbuzz": {
+            "score": 0.6,
+            "reason": "Le commentaire critique la représentation de la vie étudiante"
+        },
+        "bonus": "",
+        "malus": "Le commentaire critique la représentation de la vie étudiante"
+    },
+    {
+        "comment": "Oh sachou",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Le commentaire exprime une réaction positive",
+        "malus": ""
+    },
+    {
+        "comment": "Tellement la honte d'être si peu politisé à leur grand âge",
+        "positivity": 0,
+        "neutrality": 0,
+        "negativity": 1,
+        "toxicity": 0.7,
+        "badbuzz": {
+            "score": 0.85,
+            "reason": "Le commentaire exprime un fort sentiment de déception et de honte"
+        },
+        "bonus": "",
+        "malus": "Le commentaire critique fortement la vidéo"
+    },
+    {
+        "comment": "Il faut remettre les choses dans leur contexte. Avec tout ce que vous avez mangé, ce n'est pas 3,30 €, mais bien plus. Normalement, pour 3,30 €, vous avez une entrée, un plat et un dessert. Là, vous avez pris trois plats, donc le prix est plutôt autour de 9 €.",
+        "positivity": 0.2,
+        "neutrality": 0.6,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "",
+        "malus": ""
+    },
+    {
+        "comment": "Je trouve ça vraiment dommage de ne pas avoir travaillé le sujet avant de se rendre à la fac. L'impression que vous êtes allés dans un zoo pour lancer 3 cacahuètes aux éléphants... c'est un sujet qui aurait mérité tellement plus de boulot !!",
+        "positivity": 0,
+        "neutrality": 0.2,
+        "negativity": 0.8,
+        "toxicity": 0.2,
+        "badbuzz": {
+            "score": 0.6,
+            "reason": "Manque de préparation"
+        },
+        "bonus": "",
+        "malus": "Manque de préparation"
+    },
+    {
+        "comment": "Trop compliqué quand t'as pas les moyens, ça fait 3 ans que je redouble car je travaille en même temps que mes cours, on va s'en sortir comme on peut, force à nous",
+        "positivity": 0.2,
+        "neutrality": 0.4,
+        "negativity": 0.4,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.2,
+            "reason": "Difficultés financières"
+        },
+        "bonus": "",
+        "malus": "Difficultés financières"
+    },
+    {
+        "comment": "Eh encore une sortie de piste désastreuse pour le duo McFly et Carlito, nous soufflâmes",
+        "positivity": 0,
+        "neutrality": 0.2,
+        "negativity": 0.8,
+        "toxicity": 0.4,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Sortie de piste désastreuse"
+        },
+        "bonus": "",
+        "malus": "Sortie de piste désastreuse"
+    },
+    {
+        "comment": "Je me souviens de la vie étudiante et ça me touche énormément. À l'époque, je ne me rendais pas forcément compte que c'était la galère parce que j'avais pas le choix en fait. La situation d'Harris m'a mis les larmes aux yeux, direct. Courage à nos étudiants !",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Solidarité avec les étudiants",
+        "malus": ""
+    },
+    {
+        "comment": "Ça représente tellement la réalité de la plupart des étudiants. Le fait de faire des études avant tout pour être aisés dans la vie active et gagner de l'argent et non pour essayer de faire ce qu'on aime. Franchement, j'espère qu'elle trouvera sa voix dans sa passion, c'est vraiment cool de lui avoir proposé des contacts. Force à tous les étudiants dans le même cas !!",
+        "positivity": 0.8,
+        "neutrality": 0.2,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Solidarité avec les étudiants",
+        "malus": ""
+    },
+    {
+        "comment": "Ça fait vraiment de la peine que deux grands darons comme vous, possédiez une conscience politique d'un gamin de 10 ans. Vous êtes tellement coupés de la réalité de demander en 2025 si la vie étudiante en France c'est une situation précaire..",
+        "positivity": 0,
+        "neutrality": 0.2,
+        "negativity": 0.8,
+        "toxicity": 0.6,
+        "badbuzz": {
+            "score": 0.8,
+            "reason": "Manque de conscience politique"
+        },
+        "bonus": "",
+        "malus": "Manque de conscience politique"
+    },
+    {
+        "comment": "Carlito en CM c'est 80% des étudiants ",
+        "positivity": 0.6,
+        "neutrality": 0.2,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Carlito représente les étudiants",
+        "malus": ""
+    },
+    {
+        "comment": "Sasha en arrière-plan qui fait un vrai RP étudiant",
+        "positivity": 0.6,
+        "neutrality": 0.2,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Sasha représente les étudiants",
+        "malus": ""
+    },
+    {
+        "comment": "Jamais été la fac non plus, merci de me faire découvrir les gars.",
+        "positivity": 0.6,
+        "neutrality": 0.2,
+        "negativity": 0.2,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "Découverte de la vie étudiante",
+        "malus": ""
+    },
+    {
+        "comment": "Les puces sont sur une autre planète, la fac n'est pas High School Musical",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0.1,
+        "badbuzz": {
+            "score": 0.2,
+            "reason": "comparaison négative"
+        },
+        "bonus": "",
+        "malus": "comparaison négative"
+    },
+    {
+        "comment": "Je trouve ça bien que vous ayez parlé de la précarité étudiante et de la solitude étudiante",
+        "positivity": 0.8,
+        "neutrality": 0.1,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "appréciation de la prise de parole sur les difficultés étudiantes",
+        "malus": ""
+    },
+    {
+        "comment": "Je peine à trouver un sens à ce que je fais, pour la deuxième fois ça commence à impacter ma santé mentale",
+        "positivity": 0.1,
+        "neutrality": 0.2,
+        "negativity": 0.7,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.3,
+            "reason": "problèmes de santé mentale"
+        },
+        "bonus": "",
+        "malus": "problèmes de santé mentale"
+    },
+    {
+        "comment": "Il y a une phrase qui me fait réagir, 'tu es ici c'est gagné' à vrai dire non",
+        "positivity": 0.2,
+        "neutrality": 0.3,
+        "negativity": 0.5,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0.2,
+            "reason": "remise en question d'une idée"
+        },
+        "bonus": "",
+        "malus": "remise en question d'une idée"
+    },
+    {
+        "comment": "Le monsieur qui a repris ses études à sa retraite m'a touché en plein cœur",
+        "positivity": 0.9,
+        "neutrality": 0.1,
+        "negativity": 0,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "émotion positive face à une histoire",
+        "malus": ""
+    },
+    {
+        "comment": "Une déconnexion totale de la réalité, c'est triste",
+        "positivity": 0,
+        "neutrality": 0.1,
+        "negativity": 0.9,
+        "toxicity": 0.1,
+        "badbuzz": {
+            "score": 0.5,
+            "reason": "déconnexion de la réalité"
+        },
+        "bonus": "",
+        "malus": "déconnexion de la réalité"
+    },
+    {
+        "comment": "Je trouve assez gênant que des gens qui ont passé 8h dans une fac puissent avoir des jugements aussi naïfs",
+        "positivity": 0.1,
+        "neutrality": 0.2,
+        "negativity": 0.7,
+        "toxicity": 0.2,
+        "badbuzz": {
+            "score": 0.4,
+            "reason": "jugement négatif sur d'autres"
+        },
+        "bonus": "",
+        "malus": "jugement négatif sur d'autres"
+    },
+    {
+        "comment": "C'est super important de mettre en avant tout ça, sans oublier que certains étudiants souffrent aussi de maladie mentale",
+        "positivity": 0.8,
+        "neutrality": 0.1,
+        "negativity": 0.1,
+        "toxicity": 0,
+        "badbuzz": {
+            "score": 0,
+            "reason": ""
+        },
+        "bonus": "importance de la santé mentale",
+        "malus": ""
+    },
+    {
+        "comment": "La fille en rose au truc d'éloquence c'est vraiment que des phrases bateau",
+        "positivity": 0,
+        "neutrality": 0.1,
+        "negativity": 0.9,
+        "toxicity": 0.2,
+        "badbuzz": {
+            "score": 0.6,
+            "reason": "critique négative sur quelqu'un"
+        },
+        "bonus": "",
+        "malus": "critique négative sur quelqu'un"
+    },
+    {
+        "comment": "Le simple fait que vous preniez 3 assiettes au RU montre à quel point vous êtes déconnectés de la réalité",
+        "positivity": 0,
+        "neutrality": 0.1,
+        "negativity": 0.9,
+        "toxicity": 0.2,
+        "badbuzz": {
+            "score": 0.6,
+            "reason": "déconnexion de la réalité"
+        },
+        "bonus": "",
+        "malus": "déconnexion de la réalité"
+    }
+]
