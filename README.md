@@ -1,6 +1,6 @@
 # Ekow
 
-**Ekow** est une plateforme d'analyse intelligente des avis et commentaires en ligne. Grâce à l'IA, Ekow collecte et analyse les retours laissés sur les réseaux sociaux, les plateformes e-commerce et les sites d'avis, afin de générer des rapports détaillés mettant en évidence les points forts et les points faibles d'un contenu, d'un produit ou d'un établissement.
+Ekow est une plateforme d'analyse intelligente des avis et commentaires en ligne. Grâce à l'IA, Ekow collecte et analyse les retours laissés sur les réseaux sociaux, les plateformes e-commerce et les sites d'avis, afin de générer des rapports détaillés mettant en évidence les points forts et les points faibles d'un contenu, d'un produit ou d'un établissement.
 
 Vidéos YouTube/TikTok, posts Instagram, produits Amazon, avis TripAdvisor/Google/Booking... Ekow centralise l'analyse pour permettre aux créateurs, vendeurs et prestataires de mieux comprendre leur audience et leurs clients.
 
@@ -13,11 +13,9 @@ Vidéos YouTube/TikTok, posts Instagram, produits Amazon, avis TripAdvisor/Googl
 - [Aperçu](#aperçu)
 - [Offres](#offres)
 - [Stack technique](#stack-technique)
-- [Structure du projet](#structure-du-projet)
 - [Roadmap](#roadmap)
 - [Limitations connues](#limitations-connues)
 - [Licence](#licence)
-- [Site](#site)
 
 ---
 
@@ -67,22 +65,6 @@ Maîtrisez votre réputation locale et optimisez l'expérience client grâce à 
 - **IA** : à définir  
 - **Hébergement** : à définir
 
-## Structure du projet (en cours de développement)
-
-```
-MOOD/
-├── public/                    
-│   ├── main.php                # Point d'entrée principal
-│   ├── images/
-│   ├── fonts/
-│   ├── javascript/
-│   └── line-awesome-1.3.0/     # Icônes
-├── config/
-│   └── keys.php                # Clés API (non versionné)
-├── Dockerfile
-└── README.md
-```
-
 
 ## Roadmap
 
@@ -104,6 +86,4 @@ Ce projet a été mis en pause avant d'être finalisé.  :
 - les fonctionnalités ne sont pas encore implémentées
 - L'intégration automatique avec les plateformes tierces (réseaux sociaux, Amazon, TripAdvisor...) reste à développer
 
-## Site
-Lien vers le site : https://ekow.onrender.com
 
